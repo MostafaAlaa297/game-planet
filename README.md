@@ -6,7 +6,7 @@ Here's a README template for your front-end project using React, called "Game Pl
 
 Game Planet is a web application where you can watch, join, and organize your own tournaments. It provides a platform for gamers to connect, compete, and have fun!
 
-![Game Planet Logo]([logo.png](https://github.com/MostafaAlaa297/game-planet/blob/master/Website/game_planet_logo.png))
+![Game Planet Logo](https://github.com/MostafaAlaa297/game-planet/blob/master/Website/game_planet_logo.png)
 
 ## Features
 
@@ -17,15 +17,15 @@ Game Planet is a web application where you can watch, join, and organize your ow
 ## Screenshots
 
 ### Home Page
-![Screenshot 1]([screenshot1.png](https://github.com/MostafaAlaa297/game-planet/blob/master/Website/screencapture-localhost-3000-2021-09-12-20_17_20.png))
+![Screenshot 1](https://github.com/MostafaAlaa297/game-planet/blob/master/Website/screencapture-localhost-3000-2021-09-12-20_17_20.png)
 ### Browse Page
-![Screenshot 2]([screenshot2.png](https://github.com/MostafaAlaa297/game-planet/blob/master/Website/screencapture-localhost-3000-browse-2021-09-12-20_18_30.png))
+![Screenshot 2](https://github.com/MostafaAlaa297/game-planet/blob/master/Website/screencapture-localhost-3000-browse-2021-09-12-20_18_30.png)
 ### Organize Page
-![Screenshot 2]([screenshot2.png](https://github.com/MostafaAlaa297/game-planet/blob/master/Website/screencapture-localhost-3000-organize-2021-09-12-20_52_15.png))
+![Screenshot 2](https://github.com/MostafaAlaa297/game-planet/blob/master/Website/screencapture-localhost-3000-organize-2021-09-12-20_52_15.png)
 ### Login Page
-![Screenshot 2]([screenshot2.png](https://github.com/MostafaAlaa297/game-planet/blob/master/Website/screencapture-localhost-3000-register-2021-09-14-21_11_29.png))
+![Screenshot 2](https://github.com/MostafaAlaa297/game-planet/blob/master/Website/screencapture-localhost-3000-register-2021-09-14-21_11_29.png)
 ### Watch Live Page
-![Screenshot 2]([screenshot2.png](https://github.com/MostafaAlaa297/game-planet/blob/master/Website/screencapture-localhost-3000-watch-live-2021-09-28-22_06_01.png))
+![Screenshot 2](https://github.com/MostafaAlaa297/game-planet/blob/master/Website/screencapture-localhost-3000-watch-live-2021-09-28-22_06_01.png)
 
 
 ## Technologies Used
